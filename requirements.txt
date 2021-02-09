@@ -1,0 +1,5 @@
+numpy==1.19.5
+opencv-python
+pafy
+bounding-box
+youtube_dl
