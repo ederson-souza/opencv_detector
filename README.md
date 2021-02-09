@@ -1,10 +1,11 @@
-# Vehicle Counter with Detectron2
+# Car Detector with OpenCV
 
 ## Requirements
 - Linux, Windows or MacOS with Python ≥ 3.6
 - OpenCV
 - Numpy
 - Pafy
+- Youtube_dl
 - Bounding-box
 
 ## Installation and Usage
